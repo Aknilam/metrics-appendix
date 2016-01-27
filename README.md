@@ -14,4 +14,4 @@ Wrocław University of Technology
 
 [Boa metrics implementations] (https://github.com/Aknilam/metrics-in-boa)
 
-[Boa outputs] (https://github.com/Aknilam/metrics-output)
+[Connected Boa outputs - WEKA input] (https://github.com/Aknilam/metrics-output)
